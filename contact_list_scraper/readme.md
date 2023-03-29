@@ -7,13 +7,12 @@ This Python script searches for government office websites and extracts any vali
 This script requires the following Python libraries:
 
 - requests
-- csv
-- re
 - beautifulsoup4
+- tqdm
 
 You can install these libraries using pip:
 
-`pip install requests csv re beautifulsoup4`
+`pip install requests tqdm beautifulsoup4`
 
 
 ## Usage
